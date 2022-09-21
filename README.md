@@ -17,7 +17,7 @@ This is a motion logo for My Brand.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://devsenpai-motion-logo.netlify.app/)
 
 ### Built with
 
