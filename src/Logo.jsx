@@ -57,7 +57,7 @@ const lineVariants = {
 };
 
 const textVariants = {
-  initial: { clipPath: "inset(0px 0px 0px 790px)", x: -880 },
+  initial: { clipPath: "inset(0px 0px 0px 800px)", x: -880 },
   animate: {
     x: 0,
     clipPath: "inset(0px 0px 0px 0px)",
